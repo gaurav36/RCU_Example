@@ -1,0 +1,2 @@
+RCU_Example floder contain's RCU exaple files. "urcu-userspace-rcu-c020d88 " folder contains the necessary library
+for user-space RCU implementation. read README of " urcu-userspace-rcu-c020d88 " for using urcu library.
